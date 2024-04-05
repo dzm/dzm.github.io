@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Roger Jan Misiewicz</title>
+	
+<meta name="description" content="Roger’s family is deeply saddened to announce that on the morning of January 12, 2024, Roger passed away peacefully at age 77 after a short stay in...">
+<link rel="canonical" href="http://misiewicz.ca/roger" />
+<link rel="icon" type="image/png" href="https://misiewicz.ca/favicon.png"/>
+<meta name="robots" content="index,follow">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta property="og:title" content="Roger Jan Misiewicz"/>
+<meta property="og:description" content="Online Memorial for Roger Jan Misiewicz "/>
+<meta property="og:url" content="http://misiewicz.ca/roger" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://misiewicz.ca/roger.jpg"/>
+<style type="text/css">
+body{
+	font-family: "HelveticaNeue", Helvetica, sans-serif;
+	height: 100%;
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+#text{
+	max-width: 800px;
+	min-width: 200px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+html,
+body,
+div{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background: #bfbfbf;
+	text-align: center;
+}
+#main{
+    background: #dddddd;    
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+.wrap{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1em;
+	background: #cccccc;
+}
+#primary{
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+</style> 
+</head>
+<body>
+<div id="page">
+	<div id="main">
+		<div id="header" class="wrap">
+			<h3 id="in-memory-of">In memory of</h3>
+			<h1 id="roger-jan-misiewicz">Roger Jan Misiewicz</h1>
+			<h2 id="april-4-1946-january-12-2024">April 4, 1946 - January 12, 2024</h2>
+		</div>
+		<div id="picture" class="wrap">
+			<img src="http://misiewicz.ca/roger.jpg" alt="Roger Jan Misiewicz">
+		</div>
+		<div class="wrap">
+			<p>Roger’s family is deeply saddened to announce that on the morning of January 12, 2024, Roger passed away peacefully at age 77 after a short stay in hospital. He will be remembered for his love of books and music, along with his ability to make everyone laugh no matter the situation.</p>
+			<p>He was a loving husband to Carol for more than 43 years of marriage, father to Dave (Erin), Zoë (Mark), Kira (Ethan) and Daniel, grandfather to Griffin, Garnet and Brendan, brother to Chester and Barbara (Ed), uncle to Lisa (Sean) and RoseAnna (Jesse), great-uncle to Brayden, Connor and Jackson, and brother-in-law to Suzy and Harriet (Yasha).</p>
+			<p>He was also a strong friend to many in the 78 rpm records community and enjoyed sharing his knowledge and interest in blues records with his friends across the world. He always encouraged his family and friends to pursue their own passions with the same enthusiasm he gave to blues records.</p>
+			<p>The family would like to thank all of Roger’s personal support workers, including Nirusha, Seebert and Alicia, for their extraordinary care and dedication over the past few years.</p>
+			<p>In lieu of flowers, donations may be made to a charity of your choice. A memorial event will be held at a later date.</p>
+			<p>Please also feel free to sign the <a href="https://mountpleasantgroup.permavita.com/siteContent/guestbook.html?p=GiwaHR4Bfz01cXdBSlx0AQ">guestbook</a>.</p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
